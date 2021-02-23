@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flight in Atmosphere</string>
+    <string name="height">height</string>
+    <string name="speed">speed</string>
+    <string name="angle">angle</string>
+    <string name="launch">Launch</string>
+    <string name="pause">pause</string>
+    <string name="reset">Reset</string>
+    <string name="weight">weight</string>
+    <string name="size">size</string>
+</resources>
